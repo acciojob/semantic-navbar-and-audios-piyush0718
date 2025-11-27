@@ -1,2 +1,5 @@
-
-/* Your CSS Code here. */
+body{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+	text-shadow: 2px 4px 6px grey;
+}
